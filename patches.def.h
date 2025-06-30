@@ -85,7 +85,7 @@
 #define BAR_LTSYMBOL_PATCH 1
 
 /* Adds a colour schme for the layout symbol */
-#define BAR_LTSYMBOL_SCHEME_PATCH 0
+#define BAR_LTSYMBOL_SCHEME_PATCH 1
 
 /* Adds powerline arrows for the status.
  * This uses statuscolors logic for choosing colors for the powerline. As these markers
@@ -297,7 +297,7 @@
  * the background colour of the bar as opposed to the border colour. This allows for the
  * border to have the same transparency as the background thus giving a more uniform look.
  */
-#define BAR_BORDER_COLBG_PATCH 0
+#define BAR_BORDER_COLBG_PATCH 1
 
 /* This patch centers the WM_NAME of the currently selected window on the status bar.
  * This is compatible with the wintitle, bartabgroups, flexwintitle and awesomebar bar
